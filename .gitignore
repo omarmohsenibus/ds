@@ -1,0 +1,116 @@
+# General patterns
+*.o
+*.obj
+*.so
+*.dylib
+*.dll
+*.exe
+*.out
+*.a
+*.lib
+*.lo
+*.la
+*.i
+*.ii
+*.s
+*.S
+*.swp
+*.DS_Store
+*.dSYM
+*.stackdump
+*.pyc
+*.pyo
+*.pyd
+*.gz
+*.log
+*.log.*
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+CTestTestfile.cmake
+Makefile
+
+# Output directories
+/bin
+/build
+/lib
+/Debug
+/Release
+
+# CLion specific files
+.idea/
+cmake-build-*/
+
+# Code::Blocks specific files
+*.layout
+
+# QtCreator specific files
+*.user
+*.creator*
+*.pro.user
+
+# JetBrains IDEs specific files
+*.iml
+
+# MinGW specific files
+
+# Visual Studio Code specific files
+.vscode/
+
+# Other IDE-specific files
+/.idea/
+/*.iml
+
+# Logs and databases
+*.sql
+*.sqlite
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+*.swo
+.fseventsd
+*.directory
+
+# Compiled source files
+*.com
+*.class
+*.idb
+*.pdb
+*.ilk
+*.map
+*.pch
+*.res
+*.tlb
+*.tli
+*.tlh
+*.tmp
+
+# Backup files
+*.bak
+*.ori
+*.old
+*.orig
+
+# Package files
+*.7z
+*.dmg
+*.iso
+*.jar
+*.rar
+*.tar
+*.zip
+*.tgz
+*.xz
+*.txz
+*.bz2
+
+# Others
+*.~*~
+*.cache
+*.build
